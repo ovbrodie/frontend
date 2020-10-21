@@ -1,0 +1,18 @@
+form{
+    width: 40%;
+    border:1px grey solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.language{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+}
